@@ -1,0 +1,17 @@
+.box{
+    background-image: url("boot.png");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    width: 100%;
+    height: 300px;
+}
+
+.main .row .col {
+    background-image: url("tải\ xuống.png");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    height: 300px;
+    border: 1px solid black;
+}
